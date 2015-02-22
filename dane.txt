@@ -1,2 +1,3 @@
 dane 
-pomiary nie zostaly wykonane 
+pomiary nie zostaly wykonane
+wprowadzilam zmiany 
